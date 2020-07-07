@@ -27,5 +27,7 @@ For that, we first compute the region of interest so that the computation time c
 
 IoU = Area of the intersection / Area of the union
 
+Give a look at the mask-rcnn.ipynb notebook
+
 
 
