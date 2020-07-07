@@ -10,4 +10,4 @@ These feature maps are then passed through a Region Proposal Network (RPN) which
 We then apply an RoI pooling layer on these candidate bounding boxes to bring all the candidates to the same size
 And finally, the proposals are passed to a fully connected layer to classify and output the bounding boxes for objects
 
-![Test Image 1](https://github.com/DB11051998/Mask-RCNN/blob/master/images/1045023827_4ec3e8ba5c_z.jpg)
+![Test Image 1](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/Screenshot-from-2019-07-18-14-43-23.png)
